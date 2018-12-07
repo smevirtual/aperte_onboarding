@@ -1,0 +1,18 @@
+{
+  "name": "@smevirtual/aprete_onboarding",
+  "version": "0.0.0",
+  "description": "Onboarding materials for the Aperte project.",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://www.smevirtual.com/",
+  "author": "SME Virtual Network Contributors <open@smevirtual.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smevirtual/aperte_onboarding.git"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8.x"
+  }
+}
